@@ -7,7 +7,7 @@ on:
     branches: ["**"]
 
 permissions:
-  contents: 
+  contents: read
 
 jobs:
   build-test:
