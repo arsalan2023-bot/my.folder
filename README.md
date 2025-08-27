@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   build-test:
-    runs-on: ubuntu-latests
+    runs-on: ubuntu-lates
 
     steps:
       - name: Checkout
