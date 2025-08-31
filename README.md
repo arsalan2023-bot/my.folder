@@ -10,4 +10,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Say Hello
-        run: echo "✅ سلام! این یک تست موفق در GitHub Actions است."
+
