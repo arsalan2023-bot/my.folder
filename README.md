@@ -1,4 +1,4 @@
-name: Hello World
+me: Hello World
 
 on: [push, pull_request]
 
