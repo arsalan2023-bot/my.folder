@@ -1,4 +1,4 @@
-nme: Hello World
+name: Hello World
 
 on: [push, pull_request]
 
