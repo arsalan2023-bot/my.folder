@@ -2,7 +2,7 @@ name: Hello World
 
 on: [push, pull_request]
 
-job: self
+job: se
   say-hello:
     runs-on: ubuntu-latest
     steps:
