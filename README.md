@@ -3,7 +3,7 @@ name: Hello World
 on: [push, pull_request]
 
 job:
-  say-hell:
+  say-hello:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
