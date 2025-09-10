@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 job:
   say-hello:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-lates
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
