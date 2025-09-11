@@ -7,7 +7,7 @@ job:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v
 
       - name: Say Hello
 
