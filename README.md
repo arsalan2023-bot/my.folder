@@ -1,4 +1,4 @@
-name: Hello Worl
+name: Hell Worl
 
 on: [push, pull_request]
 
