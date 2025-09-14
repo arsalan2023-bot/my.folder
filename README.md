@@ -1,4 +1,4 @@
-name: Hell Worl
+name: Hell World
 
 on: [push, pull_request]
 
