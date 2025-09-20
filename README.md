@@ -1,6 +1,6 @@
 name: CI Tes
 
-on: [push]
+o: [push]
 
 jobs:
   build:
