@@ -1,6 +1,6 @@
 name: CI Test
 
-on: [push]
+on: [pus]
 
 jobs:
   build:
