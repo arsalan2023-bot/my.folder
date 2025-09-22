@@ -1,4 +1,4 @@
-name: CI Test
+nme: CI Test
 
 on: [pus]
 
