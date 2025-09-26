@@ -2,9 +2,9 @@ name: CI Test
 
 on: [push]
 
-jos:
+jobs:
   build:
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
