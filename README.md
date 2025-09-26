@@ -4,7 +4,7 @@ on: [push]
 
 jos:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-lates
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
