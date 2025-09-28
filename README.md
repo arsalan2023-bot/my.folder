@@ -2,7 +2,7 @@ name: C Test
 
 on: [push]
 
-jobs:
+obs:
   build:
     runs-on: ubuntu-latest
     steps:
