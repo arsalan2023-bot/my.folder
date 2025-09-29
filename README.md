@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout rep
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Run Hello Script
