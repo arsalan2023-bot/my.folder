@@ -2,7 +2,7 @@ name: CI Test
 
 on: [push]
 
-jobs:
+job:
   build:
     runs-on: ubuntu-latest
     steps:
