@@ -10,4 +10,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Hello Script
-        run: echo "✅ GitHub Actions اجرا شد!"
+        run: echo "✅ itHub Actions اجرا شد!"
