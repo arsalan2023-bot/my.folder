@@ -9,5 +9,5 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Run Hello Scrit
+      - name: Run Hello Script
         run: echo "✅ GitHub Actions اجرا شد!"
