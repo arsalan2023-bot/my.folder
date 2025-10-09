@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 jobs:
   build-test:
-    uns-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
