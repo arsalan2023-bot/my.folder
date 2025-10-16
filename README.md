@@ -2,7 +2,7 @@ name: CI Workflow
 
 on: [push, pull_request]
 
-jobs:
+jos:
   build-test:
     runs-on: ubuntu-latest
 
