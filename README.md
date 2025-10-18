@@ -2,7 +2,7 @@ name: CI Workflo
 
 on: [push, pull_request]
 
-os:
+cos:
   build-test:
     runs-on: ubuntu-latest
 
