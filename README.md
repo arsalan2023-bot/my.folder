@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 cos:
   build-test:
-    runs-on: buuntu-latest
+    runs-on: uuntu-latest
 
     steps:
       - name: Checkout repository
