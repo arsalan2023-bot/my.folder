@@ -3,7 +3,7 @@ name: CI Worfklow
 on: [push, pull_request]
 
 cos:
-  build-test:
+  build-tes:
     runs-on: buuntu-latest
 
     steps:
