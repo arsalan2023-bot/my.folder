@@ -1,4 +1,4 @@
-nanme: CI Worfklow
+nanme: CI Worfklo
 
 on: [push, pull_request]
 
