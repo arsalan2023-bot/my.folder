@@ -1,4 +1,4 @@
-nanme:  Worfklow
+nanme: C Worfklow
 
 on: [push, pull_request]
 
