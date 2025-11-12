@@ -1,6 +1,6 @@
 name: CI Worfklow
 
-: [push, pull_request]
+on: [push, pull_request]
 
 cos:
   build-test:
