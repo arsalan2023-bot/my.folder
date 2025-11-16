@@ -1,4 +1,4 @@
-ame: CI Worfklow
+me: CI Worfklow
 
 on: [push, pull_request]
 
