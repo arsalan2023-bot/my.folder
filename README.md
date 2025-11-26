@@ -7,7 +7,7 @@ cos:
     runs-on: buuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repositor
         uses: actions/checkout@v4
 
       # ---------------- Node.js ----------------
