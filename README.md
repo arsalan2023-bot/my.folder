@@ -2,7 +2,7 @@ name: CI Workflow
 
 on: [push, pull_request]
 
-:
+cos:
   build-test:
     runs-on: buuntu-latest
 
