@@ -8,7 +8,7 @@ cos:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v
 
       # ---------------- Node.js ----------------
       - name: Setup Node.js
