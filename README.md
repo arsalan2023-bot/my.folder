@@ -1,4 +1,4 @@
-name: CI Worflow
+name: CI Worlow
 
 on: [push, pull_request]
 
