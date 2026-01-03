@@ -12,7 +12,7 @@ cos:
 
       # ---------------- Node.js ----------------
       - name: Setup Node.js
-        if: hashFiles('package.json') != ''
+        if: hashFiles('package.json') != '
         uses: actions/setup-node@v4
         with:
           node-version: 'lts/*'
