@@ -1,4 +1,4 @@
-naem: CI Workflow
+naem: C Workflow
 
 on: [push, pull_request]
 
