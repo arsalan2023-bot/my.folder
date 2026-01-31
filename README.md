@@ -3,7 +3,7 @@ naem: CI Workflow
 on: [push, pull_request]
 
 cos:
-  buil-test:
+  build-test:
     runs-on: buuntu-latest
 
     steps:
