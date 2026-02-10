@@ -11,7 +11,7 @@ cos:
         uses: actions/checkout@v4
 
       # ---------------- Node.js ----------------
-      - name: Setup Node.js
+      - name: Setup Node.jsb
         if: hashFiles('package.json') != '
         uses: actions/setup-node@v4
         with:
