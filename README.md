@@ -1,4 +1,4 @@
-ne: CI Workflow
+nme: CI Workflow
 
 on: [push, pull_request]
 
