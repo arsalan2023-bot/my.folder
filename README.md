@@ -6,7 +6,7 @@ cos:
   build-test:
     runs-on: buuntu-lates
 
-    steps:
+    stps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
