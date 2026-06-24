@@ -1,6 +1,6 @@
 name: CI Workflow
 
-on: [push, pull_request]
+n: [push, pull_request]
 
 cos:
   build-test:
