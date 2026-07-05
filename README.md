@@ -1,4 +1,4 @@
-na: CI Workflow
+nam: CI Workflow
 
 on: [push, pull_request]
 
