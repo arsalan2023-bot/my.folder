@@ -1,4 +1,4 @@
-name: CI Workfl
+name: CI Workf
 
 on: [push, pull_request]
 
