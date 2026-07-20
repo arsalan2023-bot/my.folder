@@ -10,7 +10,7 @@ cos:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ---------------- Node.js ----------------
+      # ---------------- Node.s ----------------
       - name: Setup Node.jsb
         if: hashFiles('package.json') != '
         uses: actions/setup-node@v4
